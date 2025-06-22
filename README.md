@@ -49,19 +49,15 @@ By the end of the workshop, participants will:
   - **Local Installation (optional)**:  
     - Python (version 3.8+)  
     - Jupyter Notebook  
-    - A list of required packages and set-up instructions will be provided in due course prior to the start of the workshop.
+    - Python packages: random collections re itertools os time numpy matplotlib pandas requests
 
 ---
 
-## More Details Coming Soon
+## Jupyter Notebooks and Materials
 
-Additional information, such as:
-- A detailed schedule and session breakdown
-- Extended reading materials
-- Example datasets and instructions
-- Jupyter notebooks
-
-will be added as we approach the workshop date. Stay tuned for updates!
+- 📚 **Workshop Part 1**: [Access here](https://colab.research.google.com/drive/1qdCe_t7aMTWtKmp5Ff3xWmmNpBcIlIVo#scrollTo=WXT8ZUvEKS8K&forceEdit=true&sandboxMode=true)  
+- 🧪 **Workshop Part 2**: [Access here](https://colab.research.google.com/drive/1TAA88sLa2KvbdXwIPZW8RX2j-7I9zoyi#scrollTo=EmVl9xi2bRKC&forceEdit=true&sandboxMode=true)  
+- 🗂️ **Datasets**: All required datasets are included in this repository and are accessed directly through the provided Jupyter notebooks—no additional downloads needed.  
 
 ---
 
@@ -74,8 +70,17 @@ For any questions or clarifications about the workshop, please contact:
 
 ---
 
-## Licence
+## License
 
-Materials will be provided under an open licence (to be specified) to encourage learning and collaboration.
+All materials in this repository — including Jupyter notebooks, documentation, and modified datasets — are licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/) license.
 
----
+You are free to:
+- Share — copy and redistribute the material in any medium or format  
+- Adapt — remix, transform, and build upon the material  
+
+Under the following terms:
+- **Attribution** — You must give appropriate credit  
+- **NonCommercial** — You may not use the material for commercial purposes  
+- **ShareAlike** — If you modify the material, you must distribute your contributions under the same license  
+
+> 📌 Includes modified excerpts from the [Manchester corpus](https://childes.talkbank.org/access/Eng-UK/Manchester.html), part of the [CHILDES database](https://childes.talkbank.org/).
