@@ -56,7 +56,7 @@ By the end of the workshop, participants will:
 ## Jupyter Notebooks and Materials
 
 - 📚 **Workshop Part 1**: [Access here](https://colab.research.google.com/drive/1qdCe_t7aMTWtKmp5Ff3xWmmNpBcIlIVo?usp=sharing&forceEdit=true&sandboxMode=true)  
-- 🧪 **Workshop Part 2**: [Access here](https://colab.research.google.com/drive/1TAA88sLa2KvbdXwIPZW8RX2j-7I9zoyi?usp=sharing&forceEdit=true&sandboxMode=true)  
+- 🧪 **Workshop Part 2**: [Access here](https://colab.research.google.com/drive/1HPSSzWEaAmf9P-5UyoTcI1QbKgf2xvdJ#scrollTo=EmVl9xi2bRKC&forceEdit=true&sandboxMode=true)  
 - 🗂️ **Datasets**: All required datasets are included in this repository and are accessed directly through the provided Jupyter notebooks—no additional downloads needed.  
 
 ---
